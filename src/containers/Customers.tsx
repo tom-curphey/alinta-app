@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import CustomerList from '../components/CustomerList/CustomerList';
 import TextInput from '../components/TextInput/TextInput';
 

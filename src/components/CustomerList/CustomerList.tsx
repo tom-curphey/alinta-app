@@ -1,5 +1,5 @@
 import React from 'react';
-import { ICustomer } from '../../App';
+import { ICustomer } from '../../containers/Customers';
 
 const CustomerList = ({
   customers
