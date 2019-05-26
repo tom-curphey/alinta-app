@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7134fd078cdb8402a0ca5a4b825c85b9",
+    "revision": "b8da4c4fdef56d8720b7f204258826be",
     "url": "/alinta-app/index.html"
   },
   {
-    "revision": "907c93950173a1ecf76f",
+    "revision": "2170c2b3adb9d363bdc7",
     "url": "/alinta-app/static/css/main.19393e92.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alinta-app/static/js/2.fcfe0239.chunk.js"
   },
   {
-    "revision": "907c93950173a1ecf76f",
-    "url": "/alinta-app/static/js/main.b8dc8f22.chunk.js"
+    "revision": "2170c2b3adb9d363bdc7",
+    "url": "/alinta-app/static/js/main.de1828a0.chunk.js"
   },
   {
     "revision": "2d75244153bfe04cd1a9",
