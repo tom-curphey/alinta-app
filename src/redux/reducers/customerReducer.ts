@@ -7,6 +7,8 @@ import {
 // Define the Customer type
 export interface ICustomer {
   firstName: string;
+  lastName?: string;
+  dob?: string;
 }
 
 // Define the Customer State

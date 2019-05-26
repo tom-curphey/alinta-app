@@ -56,7 +56,7 @@ class Customers extends Component<ICustomersProps, ICustomersState> {
 
     return (
       <section className="customers">
-        <h1>tsReact</h1>
+        <h1>Alinta App</h1>
         <TextInput
           inputChange={this.onInputChange}
           name="firstName"
