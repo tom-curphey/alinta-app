@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alinta-app/precache-manifest.d895d12975a42fe1649dae1abc65445e.js"
+  "/alinta-app/precache-manifest.d2a24900b76a1d5f85aa226898a6a6e1.js"
 );
 
 self.addEventListener('message', (event) => {
