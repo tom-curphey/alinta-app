@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alinta-app/static/css/main.19393e92.chunk.css",
+    "main.js": "/alinta-app/static/js/main.44fdf6bd.chunk.js",
+    "main.js.map": "/alinta-app/static/js/main.44fdf6bd.chunk.js.map",
+    "runtime~main.js": "/alinta-app/static/js/runtime~main.88df00e5.js",
+    "runtime~main.js.map": "/alinta-app/static/js/runtime~main.88df00e5.js.map",
+    "static/js/2.b41502e9.chunk.js": "/alinta-app/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/alinta-app/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/alinta-app/index.html",
+    "precache-manifest.d895d12975a42fe1649dae1abc65445e.js": "/alinta-app/precache-manifest.d895d12975a42fe1649dae1abc65445e.js",
+    "service-worker.js": "/alinta-app/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/alinta-app/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/alinta-app/static/media/logo.5d5d9eef.svg"
+  }
+}
